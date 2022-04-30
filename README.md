@@ -1,9 +1,21 @@
 Heroku Link: http://fathomless-ravine-12501.herokuapp.com/
 
-# Team 1's headless E-Commerce
+
+# Team 1 Info: 
+
+Leader: Duc Vu
+
+Project: Propriete Centre
+
+Description: A website that allows users to buy and sell properties using JavaScript (ReactJS), Flask, TailwindCSS (custom CSS), and hosted on Heroku
+
+Members: [Duc Vu](https://github.com/Bodisoem), [Linh Ngo](https://github.com/oxlngo), [Vivian Do](https://github.com/odnaiviv)
+
+
+# Team 1's Propriete Centre E-Commerce
 
 ## Goal Statement:
-Nowadays, marketplace website often overloaded with thousands of distractions and information that sometime confuse you. Hence, you end up buying something you not really need.Therefore, we create a seamless and straight-forward web application that has no ads, no distraction, and one click button for your convenience.
+The majority of online marketplaces today are often overloading consumers with massive amounts of information at once. This offers a very unpleasant user experience. Here at Propriete Centre, we allow our users to buy, sell, and flip their propetiers with their own listings. Our simple design creates a seamless and straightforward experience for our customers when browsing through the website. With a simple click of the button, you too can start selling your own properties too!
 
 ## Project Tools:
 * PostgresQL - Database - https://www.postgresql.org/
@@ -121,9 +133,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-
-
 
 
