@@ -89,8 +89,8 @@ We ignored one pylint error, because python could throw any exception and we wou
 
 ## Getting started
 ```
-git clone https://github.com/kashmafia/project2-darceus.git
-cd project2-darceus/
+git clone https://github.com/Bodisoem/Team1_p4.git
+cd Team1_p4/
 pip install requirements.txt
 npm install
 ```
